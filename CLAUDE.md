@@ -1,3 +1,24 @@
+# tududi (chrisvel/tududi)
+
+## 프로젝트 개요
+복잡하고 숨 가쁜 현대인의 일상과 업무를 차분하고 평온하게 정돈해주는 "미니멀리스트 라이프 & 프로젝트 매니저"
+불필요한 알림과 복잡한 기능으로 주의력을 뺏지 않고, 오늘 내가 집중해야 할 핵심 과업에만 온전히 몰입하도록 유도
+과중한 업무 스트레스 속에서 마음의 평정을 유지하며 삶의 주도권을 되찾고 싶은 사람들을 위한 힐링 작업 관리 도구
+
+## 핵심 특징 & 추천 분야
+- 차분한업무정돈
+- 미니멀라이프매니저
+- 주의력보호할일앱
+- 마음의평정유지
+- 집중력힐링도구
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
